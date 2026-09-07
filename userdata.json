@@ -1,14 +1,14 @@
 [
-    {
-        "device_id": "a45dbf2b9a8d4107",
-        "key": "KARANPAPA",
-        "expirydate": "31-12-2025",
-        "Allowoffline": true
-    }, 
-    {
+ {
         "device_id": "e7faa6c57d532a53",
         "key": "KL99",
         "expirydate": "29-09-2026",
+        "Allowoffline": false
+    }, 
+    {
+        "device_id": "a45dbf2b9a8d4107",
+        "key": "KARANPAPA",
+        "expirydate": "29-09-2029",
         "Allowoffline": false
     }
 ]
