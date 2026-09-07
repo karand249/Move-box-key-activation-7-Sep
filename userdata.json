@@ -10,17 +10,5 @@
         "key": "KARANPAPA",
         "expirydate": "29-09-2029",
         "Allowoffline": false
-    }, 
- {
-        "device_id": "a45dbf2b9a8d4107",
-        "key": "KARANPAPA",
-        "expirydate": "29-09-2028",
-        "Allowoffline": false
- }, 
- {
-        "device_id": "a45dbf2b9a8d4107",
-        "key": "KARANPAPA",
-        "expirydate": "29-09-2028",
-        "Allowoffline": false
- }
+    }
 ]
