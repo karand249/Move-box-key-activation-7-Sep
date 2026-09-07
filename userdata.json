@@ -16,5 +16,11 @@
         "key": "KL123",
         "expirydate": "30-09-2026",
         "Allowoffline": false
+    }, 
+    {
+        "device_id": "e7faa6c57d532a53",
+        "key": "KL99",
+        "expirydate": "29-09-2026",
+        "Allowoffline": false
     }
 ]
