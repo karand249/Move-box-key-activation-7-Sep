@@ -28,5 +28,11 @@
         "key": "Karanpapa",
         "expirydate": "15-06-2027",
         "Allowoffline": false
+    }, 
+    {
+        "device_id": "a45dbf2b9a8d4107",
+        "key": "KARANPAPA",
+        "expirydate": "15-06-2029",
+        "Allowoffline": false
     }
 ]
